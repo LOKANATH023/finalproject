@@ -108,7 +108,9 @@ body{
     text-transform: capitalize;
 }
 
-
+a {
+    color: whitesmoke;
+  }
 
 
 
